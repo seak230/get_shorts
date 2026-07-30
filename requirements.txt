@@ -1,0 +1,11 @@
+moviepy>=1.0.3
+imageio-ffmpeg>=0.4.9
+openai-whisper
+pillow
+numpy
+scipy
+gradio
+torch
+yt-dlp
+SpeechRecognition
+
